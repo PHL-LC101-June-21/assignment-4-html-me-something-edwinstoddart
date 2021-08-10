@@ -1,7 +1,7 @@
 /* Classes */
 p.story {
-    margin-left: 125px;
-    margin-right:125px;
+    margin-left: 200px;
+    margin-right:200px;
 }
 
 /* Elements */
@@ -33,6 +33,7 @@ img {
     border-radius: 5px;
     padding-left: 100px;
     padding-right:100px;
+    text-align: center;
 }
 
 #foot {
