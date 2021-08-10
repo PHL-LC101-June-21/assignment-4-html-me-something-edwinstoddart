@@ -1,7 +1,7 @@
 /* Classes */
 p.story {
-    margin-left: 200px;
-    margin-right:200px;
+    margin-left: 250px;
+    margin-right:250px;
 }
 
 /* Elements */
@@ -27,8 +27,8 @@ img {
 
 /* IDs */
 #head {
-    margin-left: 100px;
-    margin-right:100px;
+    margin-left: 200px;
+    margin-right:200px;
     border: 2px solid gray;
     border-radius: 5px;
     padding-left: 100px;
@@ -38,8 +38,8 @@ img {
 
 #foot {
     margin-top: 25px;
-    margin-left: 100px;
-    margin-right:100px;
+    margin-left: 200px;
+    margin-right:200px;
     border: 2px solid gray;
     border-radius: 5px;
     padding-left: 100px;
