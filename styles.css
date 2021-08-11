@@ -1,1 +1,62 @@
-/* Write your CSS here! */
+/* Classes */
+p.story {
+    margin-left: 250px;
+    margin-right:250px;
+}
+
+/* Elements */
+h1 {
+    color: white;
+    text-align: center;
+}
+p {
+    color: white;
+}
+body {
+    margin: 8px;
+    display: block;
+    background-color: black;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200;
+    height: 200;
+}
+
+/* IDs */
+#head {
+    margin-left: 200px;
+    margin-right:200px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding-left: 100px;
+    padding-right:100px;
+    text-align: center;
+}
+
+#foot {
+    margin-top: 25px;
+    margin-left: 200px;
+    margin-right:200px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding-left: 50px;
+    padding-right:50px;
+    text-align: right;
+}
+
+/* Assignment Required Content, Set To Zero Font Size Due To Stylistic Differences */
+#mainHeading {
+    color: red;
+    font-size: 0px;
+}
+#testP {
+    color: green;
+    font-size: 0px;
+}
+.funParagraph {
+    color: green;
+    font-size: 0px;
+}
